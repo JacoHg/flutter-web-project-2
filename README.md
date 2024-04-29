@@ -12,6 +12,10 @@ Features:
 
 A link to this website : https://web-1-5ddfd.web.app/
 
+![Screenshot (17)](https://github.com/JacoHg/flutter-web-project-2/assets/168348167/079bf667-f3fd-42fd-a3ee-3f97c8efbc42)
+![Screenshot (16)](https://github.com/JacoHg/flutter-web-project-2/assets/168348167/a6a87201-060a-41a8-bb10-ed157a4f3251)
+![Screenshot (15)](https://github.com/JacoHg/flutter-web-project-2/assets/168348167/a2d12a89-a163-4637-9d8b-94c1784feb1f)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
