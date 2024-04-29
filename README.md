@@ -1,5 +1,15 @@
 # flutter_web_3
 
+This website was made for my own learning purposes and i definitely learned alot from this project, as you will see there is definitely more room for improvement.
+Building this website was alot of fun, but it needs alot more work espesially clean up work.
+I will try to finish this website in the future however as for right now there are still many things to learn for me and so i need to move on to new more challenging projects.
+
+Features:
+-Rotating carousel widget.
+-Responsive design.
+-Interactive categorys.
+-App bar hover animation.
+
 A new Flutter project.
 
 ## Getting Started
